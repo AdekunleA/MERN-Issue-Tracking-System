@@ -2,7 +2,7 @@
 
 var db = new Mongo().getDB('issuetracker');
 
-var owners = ['James', 'Don', 'Luciano', 'Meyer', 'Nucky', 'Costello'];
+var owners = ['Goethe', 'Alexander', 'David', 'Liu', 'Cyrus', 'Oranyan'];
 
 var statuses = ['New', 'Open', 'Assigned', 'Fixed', 'Verified', 'Closed'];
 
